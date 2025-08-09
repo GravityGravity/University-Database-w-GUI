@@ -1,0 +1,52 @@
+
+.head {
+
+display: flex;
+justify-content: center;
+margin-top: 50px;
+
+
+
+}
+
+.inputs {
+
+display: flex;
+flex-direction: column;
+
+
+
+}
+
+
+.topinputcon {
+
+    display: flex;
+    flex-direction: row;
+    margin:auto;
+    margin-top: 100px;
+    gap: 50px;
+
+}
+
+.bottominputcon {
+
+    display: flex;
+    flex-direction: row;
+    margin:auto;
+    margin-top: 50px;
+    padding-bottom: 50px;
+    gap: 50px;
+
+}
+
+.graph {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin:auto;
+}
+
+.input {
+
+}

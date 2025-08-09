@@ -1,0 +1,10 @@
+[{"#": 1, "courseID": "CDA101", "credithours": 3, "grade": "b", "gradepoint": 3 },
+ {"#": 2, "courseID": "CDAL01", "credithours": 1, "grade": "a", "gradepoint": 4 },
+ {"#": 3, "courseID": "PHY115", "credithours": 3, "grade": "a", "gradepoint": 4 },
+ {"#": 4, "courseID": "ARC405", "credithours": 3, "grade": "c", "gradepoint": 2 },
+ {"#": 5, "courseID": "COP310", "credithours": 3, "grade": "d", "gradepoint": 1 },
+ {"#": 6, "courseID": "COP520", "credithours": 3, "grade": "a", "gradepoint": 4 },
+ {"#": 7, "courseID": "CYB295", "credithours": 3, "grade": "a", "gradepoint": 4 },
+ {"#": 8, "courseID": "ENG001", "credithours": 3, "grade": "a", "gradepoint": 4 },
+ {"#": 9, "courseID": "AIC955", "credithours": 2, "grade": "b", "gradepoint": 3 }
+]

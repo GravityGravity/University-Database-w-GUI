@@ -1,0 +1,29 @@
+
+.card.text-center.px-3.Usercard{
+    background-image: 
+    linear-gradient(to right, rgb(148, 146, 146) , rgba(255, 255, 0, 0.014));
+}
+
+
+.card.text-center.px-3.Studentcard{
+    background-image: 
+    linear-gradient(to right, rgb(44, 150, 44) , rgba(255, 255, 0, 0.014));
+}
+
+
+.card.text-center.px-3.Instructorcard {
+    background-image: 
+    linear-gradient(to right, rgb(169, 101, 179) , rgba(255, 255, 0, 0.014));
+} 
+
+
+.card.text-center.px-3.Staffcard {
+    background-image: 
+    linear-gradient(to right, rgb(207, 139, 51) , rgba(255, 255, 0, 0.014));
+}
+
+
+ .card.text-center.px-3.Advisorcard {
+    background-image: 
+    linear-gradient(to right, rgb(57, 170, 185) , rgba(255, 255, 0, 0.014));
+}

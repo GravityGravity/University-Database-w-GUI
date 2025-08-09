@@ -1,0 +1,56 @@
+.head {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.inputs {
+  display: flex;
+  flex-direction: column;
+}
+
+.topinputcon {
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+  margin-top: 50px;
+  gap: 50px;
+  margin-bottom: 50px;
+}
+
+.graph {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  margin: auto;
+}
+
+.calculations {
+  margin-top: 25px;
+  margin-left: 75px;
+}
+
+.customtab {
+  display: flex;
+  margin: auto;
+}
+
+.options {
+  text-align: center;
+}
+
+.selectcont {
+  display: flex;
+  width: 500px;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.gradecolumn {
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.gradeheader {
+  text-align: center;
+}
