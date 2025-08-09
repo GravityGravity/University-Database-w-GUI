@@ -44,9 +44,11 @@
     vite: "^4.1.0"
 
 ###### How to run:
+
+    1. Download NPM depedencies
     
-    1. Open cmd directory to .../University Data Base
+    2. Open cmd directory to .../University Data Base
 
-    2. Type "npm run dev"
-
-    3. Check localhost IP address
+    3. Type "npm run dev"
+    
+    4. Check localhost IP address
