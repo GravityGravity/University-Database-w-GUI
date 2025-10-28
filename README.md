@@ -16,14 +16,12 @@
 
 
 #####   Features:
+-Role Specific permissions [Guest User, Staff, Instructor, Advisor, Student]
+-Login Verification
+-GPA Calculator Tool w/ future estimation
+-Complete Table Data Overview (Data View Tool) 
+-Database Table Edit Tool (Data Edit Tool)
 .
-        -Role Specific permissions [Guest User, Staff, Instructor, Advisor, Student]
-        -Login Verification
-        -GPA Calculator Tool w/ future estimation
-        -Complete Table Data Overview (Data View Tool) 
-        -Database Table Edit Tool (Data Edit Tool)
-
-   .
     The system was created by a **4 student team** and assigned as a Capstone project for the Developer Operation Principles course taught by *Dr Sueychyun (Roger) Fang*.
 
 ### Student Team Members:
@@ -53,4 +51,5 @@
     2. Open cmd directory to .../University Data Base
     3. Type "npm run dev"
     4. Check localhost IP address
+
 
